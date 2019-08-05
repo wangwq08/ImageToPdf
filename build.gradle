@@ -20,4 +20,5 @@ dependencies {
     compile('org.apache.poi:poi:3.17')
     compile('org.apache.poi:poi-ooxml:3.17')
     compile('org.apache.httpcomponents:httpclient')
+    compile files('lib/com.lowagie.text-2.1.7.jar')
 }

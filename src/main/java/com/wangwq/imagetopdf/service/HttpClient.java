@@ -23,7 +23,7 @@ public class HttpClient {
 
         if(client == null) {
             client = new DefaultHttpClient();
-            //HttpHost proxy = new HttpHost("127.0.0.1",4000);
+            //HttpHost proxy = new HttpHost("",3128);
             //client.getParams().setParameter(ConnRouteParams.DEFAULT_PROXY, proxy);
         }
         try {
