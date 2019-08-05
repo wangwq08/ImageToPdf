@@ -18,6 +18,8 @@ Arch Manjaro/JDK 1.8/Spring boot 2.16
 compile('org.apache.httpcomponents:httpclient')
 ```
 
+[图片地址](https://github.com/wangwq08/ImageToPdf/blob/master/file/1.jpg)
+
 ## 生成pdf文档
 
 使用com.lowagie.text-2.1.7.jar对pdf文档的读取写入进行操作
@@ -25,6 +27,8 @@ compile('org.apache.httpcomponents:httpclient')
 ```
 compile files('lib/com.lowagie.text-2.1.7.jar')
 ```
+
+[文档地址](https://github.com/wangwq08/ImageToPdf/blob/master/file/image.pdf)
 
 # 可能遇到的问题
 
